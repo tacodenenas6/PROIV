@@ -1,0 +1,4 @@
+vsc-virtual/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
